@@ -11,7 +11,7 @@ const std::map<unsigned short, MouseConfig> mouseConfigs {
                  .hasMotionSyncAt8k = true
              }},
     {0x1978, {
-                 .name = "OP1 8k v2",
+                 .name = "OP1 8k v2 (Experimental)",
                  .hasGlassMode = true,
                  .hasMotionSyncAt8k = true
              }},
