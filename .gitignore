@@ -73,6 +73,9 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
+# Dear ImGui runtime UI state
+imgui.ini
+
 # Directories with generated files
 .moc/
 .obj/
